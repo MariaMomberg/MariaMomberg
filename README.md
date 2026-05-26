@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  💖 Front-end • Back-end • Taylor Swift 💖
+  💖 Front-end • Back-end 💖
 </p>
 
 ---
