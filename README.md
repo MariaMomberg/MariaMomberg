@@ -1,17 +1,7 @@
-<!-- PACMAN -->
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/MariaMomberg/MariaMomberg/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/MariaMomberg/MariaMomberg/output/pacman-contribution-graph.svg"
-  />
-  <img
-    alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/MariaMomberg/MariaMomberg/output/pacman-contribution-graph.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MariaMomberg/MariaMomberg/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MariaMomberg/MariaMomberg/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MariaMomberg/MariaMomberg/output/pacman-contribution-graph.svg">
 </picture>
 
 <h1 align="center">✨ Welcome to my Era ✨</h1>
@@ -38,22 +28,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,java,spring,html,css" />
-</p>
-
----
-
-## ✨ My GitHub Stats
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=MariaMomberg&show_icons=true&theme=radical"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaMomberg&layout=compact&theme=radical"
-  />
 </p>
 
 ---
