@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MariaMomberg/MariaMomberg/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MariaMomberg/MariaMomberg/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MariaMomberg/MariaMomberg/output/pacman-contribution-graph.svg">
-</picture>
 
 <h1 align="center">✨ Welcome to my Era ✨</h1>
 
@@ -40,6 +35,12 @@
 <p align="center">
   💖 In my coding era since 2026 💖
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MariaMomberg/MariaMomberg/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MariaMomberg/MariaMomberg/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MariaMomberg/MariaMomberg/output/pacman-contribution-graph.svg">
+</picture>
 
 <!--
 **MariaMomberg/MariaMomberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
