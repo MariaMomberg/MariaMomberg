@@ -12,13 +12,13 @@
 </p>
 
 <p align="center">
-  🩷 Front-end • Back-end • Coffee • Taylor Swift 🩷
+  🩷 Front-end • Back-end 🩷
 </p>
 
 ---
 
 ### 🎶 Currently listening
-> “Long live all the mountains we moved.” — Taylor Swift
+> “New Romantics.” — Taylor Swift
 
 ---
 
